@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CBImage_Example' do
+  pod 'CBImage', :path => '../'
+
+  target 'CBImage_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
