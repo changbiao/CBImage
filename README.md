@@ -1,6 +1,6 @@
 # CBImage
 
-[![CI Status](http://img.shields.io/travis/CBImage/CBImage.svg?style=flat)](https://travis-ci.org/CBImage/CBImage)
+[![CI Status](http://img.shields.io/travis/changbiao/CBImage.svg?style=flat)](https://travis-ci.org/CBImage/CBImage)
 [![Version](https://img.shields.io/cocoapods/v/CBImage.svg?style=flat)](http://cocoapods.org/pods/CBImage)
 [![License](https://img.shields.io/cocoapods/l/CBImage.svg?style=flat)](http://cocoapods.org/pods/CBImage)
 [![Platform](https://img.shields.io/cocoapods/p/CBImage.svg?style=flat)](http://cocoapods.org/pods/CBImage)

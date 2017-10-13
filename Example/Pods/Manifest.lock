@@ -1,0 +1,16 @@
+PODS:
+  - CBImage (0.1.0)
+
+DEPENDENCIES:
+  - CBImage (from `../`)
+
+EXTERNAL SOURCES:
+  CBImage:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CBImage: 9113f25bfbbf704a367c1b13df7af3a9e5c0a693
+
+PODFILE CHECKSUM: a92bdc6291947d8ce20d25a721d58ea8b4ea968c
+
+COCOAPODS: 1.2.1
